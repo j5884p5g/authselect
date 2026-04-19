@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+  <cppcheck version="2.7"/>
+  <errors>
+    <error id="id" severity="warning" msg="msg" verbose="&lt;script&gt;alert(1)&lt;/script&gt;">
+      <location file="src/cli/main.c" line="1"/>
+    </error>
+  </errors>
+</results>
